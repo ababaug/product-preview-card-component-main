@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/ababaug/social-links-profile-main]
-- Live Site URL: [https://ababaug.github.io/social-links-profile-main/]
+- Solution URL: [https://github.com/ababaug/product-preview-card-component-main]
+- Live Site URL: [https://ababaug.github.io/product-preview-card-component-main/]
 
 ## My process
 
