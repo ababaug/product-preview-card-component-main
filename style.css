@@ -159,6 +159,10 @@ button span {
         gap: 1.5em;
     }
 
+    img {
+        height: 100%;
+    }
+
     button:hover,
     button:focus {
         background-color: var(--color-very-dark-cyan);

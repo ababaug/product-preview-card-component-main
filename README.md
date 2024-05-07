@@ -59,7 +59,6 @@ To see how you can add code snippets, see below:
         <source
           srcset="images/image-product-desktop.jpg"
           media="(min-width: 480px)"
-          height="100%"
         />
         <img src="./images/image-product-mobile.jpg" alt="mobile image" />
       </picture>
@@ -250,6 +249,10 @@ button span {
   .product {
     display: grid;
     grid-template-columns: 1fr 1fr;
+  }
+
+  img {
+    height: 100%;
   }
 
   .product__content {
