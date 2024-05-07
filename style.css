@@ -150,6 +150,10 @@ button span {
 
 
 @media (min-width: 480px) {
+    html {
+        font-size: 15px;
+    }
+
     .product {
         display: grid;
         grid-template-columns: 1fr 1fr;
